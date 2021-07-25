@@ -14,4 +14,4 @@ BackEnd:
 - NodeJS
 - ExpressJS
 - GraphQL
-- Apollo Server
+- Express-GraphQL
