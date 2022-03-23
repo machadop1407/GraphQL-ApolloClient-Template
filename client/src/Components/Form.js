@@ -13,10 +13,10 @@ function Form() {
   const addUser = () => {
     createUser({
       variables: {
-        firstName: firstName,
-        lastName: lastName,
-        email: email,
-        password: password,
+        firstName,
+        lastName,
+        email,
+        password,
       },
     });
 
