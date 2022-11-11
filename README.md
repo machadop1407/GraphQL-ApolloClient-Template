@@ -1,17 +1,18 @@
-# GraphQL-ApolloClient-Template
+GraphQL-ApolloClient-Template
+Youtube Tutorial
+YOUTUBE VIDEO
 
-## Youtube Tutorial
-[YOUTUBE VIDEO](https://www.youtube.com/watch?v=Dr2dDWzThK8)
-
-
-## Stack
+Stack
 FrontEnd:
-- React
-- Apollo Client
-- GraphQL
 
+React
+Apollo Client
+GraphQL
 BackEnd:
-- NodeJS
-- ExpressJS
-- GraphQL
-- Express-GraphQL
+
+NodeJS
+ExpressJS
+GraphQL
+Express-GraphQL
+
+Pull requests are finished !
